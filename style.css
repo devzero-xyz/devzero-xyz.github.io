@@ -13,19 +13,16 @@ body {
 	width: 85%;
 }
 
-div.webchat {
-	position: relative;
-	padding-bottom: 20%;
-	height: 0;
+.alert {
+	align-text: center;
+	padding-left: 40px;
+	padding-right: 40px;
 }
 
-iframe.webchat {
-	border: none;
-	position: absolute;
-	top: 0;
-	left: 0;
+.webchat {
+	border: 0;
 	width: 100%;
-	height: 500px;
+	height: 467px;
 	padding-left: 20px;
 	padding-right: 20px;
 }
