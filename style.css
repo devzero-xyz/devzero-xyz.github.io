@@ -29,4 +29,5 @@ body {
 
 #errormsg {
 	text-align: center;
+	font-weight: bold;
 }
