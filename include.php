@@ -25,12 +25,12 @@ function isActive($pagename)
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container-fluid">
         <div class="navbar-header">
-          <a class="navbar-brand" href="/index">DevZero</a>
+          <a class="navbar-brand" href="/">DevZero</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li <?=isActive("index")?>>
-              <a href="/index">
+              <a href="/">
                 <span class="fa fa-fw fa-home"></span>
                 Home
               </a>
