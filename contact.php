@@ -13,6 +13,10 @@ include("include.php");
       <a href="ircs://chat.freenode.net:6697/##devzero">chat.freenode.net</a>
       in
       <a href="ircs://chat.freenode.net:6697/##devzero">##devzero</a>
+      and
+      <a href="ircs://irc.stuxnet.xyz:6697/#devzero">irc.stuxnet.xyz</a>
+      in
+      <a href="ircs://irc.stuxnet.xyz:6697/#devzero">#devzero</a>
     </div>
     <div class="container-fluid">
       <iframe class="webchat" src="https://webchat.freenode.net/?channels=%23%23devzero"></iframe>
